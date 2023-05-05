@@ -1,0 +1,3 @@
+# whatsapp-chat-analyzer
+WhatsApp group chats—which have proven to be a popular form of communication for both individuals and organizations—are studied. The study concentrates on the type of messages communicated, the frequency and duration of conversations, and the responsibilities that players take on in group chats.
+Group chats are distinguished by a high degree of informality, a wide range of themes, and a diversified collection of participants, according to the research results. The study also emphasizes how critical it is to comprehend group chat dynamics, including the function of moderators, the influence of social norms, and the risk of information overload.
